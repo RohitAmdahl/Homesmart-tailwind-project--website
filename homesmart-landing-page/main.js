@@ -1,4 +1,10 @@
 import "./style.css";
+const navBtn = document.querySelector("#menu");
+const menuBar = document.querySelector("#item");
+navBtn.addEventListener("click", () => {
+  menuBar.classList.toggle("hidden");
+  menuBar.classList.toggle("flex");
+});
 // import javascriptLogo from './javascript.svg'
 // import viteLogo from '/vite.svg'
 // import { setupCounter } from './counter.js'
