@@ -1,5 +1,8 @@
 # tailwind-project
 ```
-bash
+
 cd homestart-landing-page
+```
+```
+npm run dev
 ```
