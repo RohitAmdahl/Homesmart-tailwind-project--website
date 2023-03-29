@@ -5,6 +5,7 @@
 - i m learning tailwind i made this project by watching youtube, buy watch and following i got alot of experience and knowledge how tailwind work and tailwind classes
 - i m proud myself that i can do tailwind and use tailwind very nicely.
 
+# vite CMD
 ```
 cd homesmart-landing-page
 ```
@@ -12,3 +13,9 @@ cd homesmart-landing-page
 ```
 npm run dev
 ```
+# Tailwind 
+
+```
+npm run watch
+```
+
