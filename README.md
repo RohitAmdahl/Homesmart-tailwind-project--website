@@ -3,7 +3,7 @@
 # Homesmart tailwind css project
 
 - i m learning tailwind i made this project by watching youtube, buy watch and following i got alot of experience and knowledge how tailwind work and tailwind classes
-- i m proud myself that i can do tailwinf and use tailwind very nicely.
+- i m proud myself that i can do tailwind and use tailwind very nicely.
 
 ```
 cd homesmart-landing-page
